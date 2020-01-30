@@ -1,0 +1,79 @@
+
+Q1:
+The layer property of the window governs the z-order of windows and the lower the number the more on top it will be.
+A:
+
+    True
+    [x]False
+
+Correct
+Q2:
+A main window will fill in all of the available space in the runtime.
+A:
+
+    [x]True
+    False
+
+Correct
+Q3:
+The border and titlebar of each window can be hidden.
+A:
+
+    [x]True
+    False
+
+Correct
+Q4:
+You can only have one window set to open on startup.
+A:
+
+    True
+    [x]False
+
+Correct
+Q5:
+Which of the following properties would you change to specify the order of docked windows in the same position?
+A:
+
+    Maximizable
+
+    Dock Position
+
+    Start Maximized
+
+    Layer
+
+    [x]Dock Index
+
+Correct
+Q6:
+Window names must be unique within a given folder.
+A:
+
+    [x]True
+    False
+
+Correct
+Q7:
+You can open a dynamic set of windows in the client by configuring a client startup script.
+A:
+
+    [x]True
+    False
+
+Correct
+Q8:
+Which of the following window types would you use to get a window to stick to the bottom of the client?
+A:
+
+    Main Window
+
+    Popup Window
+
+    [x]Docked Window
+
+    Any of the above
+
+    None of the above
+
+Correct

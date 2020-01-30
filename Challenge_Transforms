@@ -1,0 +1,73 @@
+-----------------------------------------------------------------------------
+TRANSFORMS
+-----------------------------------------------------------------------------
+
+
+1:
+When adding multiple transforms to a binding, the position of the transforms does not matter.
+A:
+
+    True
+    False [X]
+
+Correct
+Q2:
+When using a Format Transform that is configured for a Numeric Type, which of the following options appear under the "Format" dropdown? Select all that apply.
+A:
+
+    Currency [X]
+
+    Percent [X]
+
+    Float
+
+    Pattern [X]
+
+    None of the above
+
+Correct
+Q3:
+The Script Transform has a built-in argument that represents the value that's being provided by the binding. What is that argument called?
+A:
+
+    quality
+
+    self
+
+    timestamp
+
+    value [X]
+
+    None of the above
+
+Correct
+Q4:
+In a Map Transform, when using the Numeric Range Input Type, which of the following is an acceptable format?
+A:
+
+    Min,Max
+
+    Min-Max
+
+    [Min,Max] [X]
+
+    Any of the above
+
+    None of the above
+
+Correct
+Q5:
+The Format Transform has two format types that can be selected via radio button. Which of the following are types that can be selected? Select all that apply.
+A:
+
+    Array
+
+    Datetime [X]
+
+    Numeric [X]
+s
+    String
+
+    None of the above
+
+Correct

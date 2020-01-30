@@ -1,0 +1,79 @@
+-----------------------------------------------------------------------------
+STYLES
+-----------------------------------------------------------------------------
+
+Q1:
+A ___________ Style Class is a Style Class that transitions from one configuration to another, over a duration.
+A:
+
+    In-Line
+
+    Moving
+
+    Transforming
+
+    Animated
+
+    None of the above
+
+Correct
+Q2:
+Should you need to change the Style Class on a component from the Session, a binding is generally the recommended approach.
+A:
+
+    True
+    False
+
+Correct
+Q3:
+Components can not be configured with multiple Style Classes
+A:
+
+    True
+    False
+
+Correct
+Q4:
+The "style" property on a component can be found under which component category?
+A:
+
+    META
+
+    PROPS
+
+    PARAMS
+
+    CUSTOM
+
+    POSITION
+
+Correct
+Q5:
+The main way to change the look on a Perspective component is by using a Style.
+A:
+
+    True
+    False
+
+Correct
+Q6:
+When using animation on a Style Class, the animation repeats infinitely by default.
+A:
+
+    True
+    False
+
+Correct
+
+    Home
+    About
+    Courses
+    Account
+
+    Inductive Automation
+    Report a Website Issue
+    Help Us Improve IU
+
+Privacy Policy | Terms of Use
+
+© 2020 Inductive Automation. All rights reserved.

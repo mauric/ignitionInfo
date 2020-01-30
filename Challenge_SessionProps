@@ -1,0 +1,37 @@
+
+Q1:
+In the designer's User Interface, session props are located on the "root" or "home" of the perspective module.
+A:
+
+    True x
+    False
+
+Correct
+Q2:
+What is a session prop?
+A:
+
+    None
+
+    A property that's available to all objects in a single session x
+
+    A property that's only available in the designer
+
+    A property that's monitoring the number of active sessions
+
+    A property that's reports the status of the gateway
+
+Correct
+Q3:
+In a Perspective Session, clicking on the "^" character in the lower right corner opens the ______
+A:
+
+    Session Bar
+
+    App Bar x
+
+    Perspective Bar
+
+    Status Bar
+
+    Tool Bar

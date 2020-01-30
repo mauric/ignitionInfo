@@ -1,0 +1,43 @@
+ Congratulations!
+
+You passed the Popup Windows challenge and completed the Vision Windows course! You are on your way to earning a credential.
+Q1:
+Popup windows are always on top of main screens.
+A:
+
+    True
+    [x]False
+
+Correct
+Q2:
+You should never bind a property that is used in passing parameters.
+A:
+
+    [x]True
+    False
+
+Correct
+Q3:
+A popup window can be configured to open in the center of the client or at a specific location.
+A:
+
+    [x]True
+    False
+
+Correct
+Q4:
+In order to pass a parameter into a window, custom properties must be created on the root container of that window.
+A:
+
+    [x]True
+    False
+
+Correct
+Q5:
+Popup Windows can't be dragged beyond the boundaries of the main window.
+A:
+
+    True
+    [x]False
+
+Correct

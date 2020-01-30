@@ -1,0 +1,63 @@
+2:
+In general terms, an action is a component's response to an event.
+A:
+
+    True x
+    False
+
+
+Q4:
+The navigation action can be used to open popup and docked views.
+A:
+
+    True
+    False x
+
+
+    
+    
+Q1:
+Which of the following CANNOT be accomplished using events and actions?
+A:
+
+    Navigating to a new page. 
+
+    Restarting the Gateway. [x]
+    Opening a docked view.
+
+    Logging out of the session.
+
+    Running a script.
+
+Correct
+Q2:
+The navigation action can be used to open popup and docked views.
+A:
+
+    True
+    False[x]
+
+Correct
+Q3:
+Navigation actions can be used to navigate to a:
+A:
+
+    a URL inside or outside the project.[x]
+
+    new Page in the project.[x]
+
+    new Main View in the project.[x]
+
+    All of the above.[x]
+
+    None of the above.
+
+Correct
+Q4:
+In general terms, an action is a component's response to an event.
+A:
+
+    True[x]
+    False
+
+Correct

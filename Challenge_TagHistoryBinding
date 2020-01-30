@@ -1,0 +1,85 @@
+-----------------------------------------------------------------------------
+INDIRECT TAG BINDING
+-----------------------------------------------------------------------------
+
+
+
+Q1:
+On a Tag History binding, the Time Range dropdown has which of the following options? Choose all that apply.
+
+Select all answers that apply
+A:
+
+    Realtime [x]
+
+    Most Recent
+
+    Historical [x]
+
+    All of the above
+
+    None of the above
+
+Q2:
+On a Tag History binding, the Start Date and End Date properties allow you to write expressions to determine their values.
+A:
+
+    True [x]
+    False
+
+Q3:
+If you wanted to show the value of a tag on a component, but needed to perform some calculation before hand, the _________ type of binding is generally the most useful.
+A:
+
+    Indirect Tag
+
+    None of these options work, you need a script.
+
+    Property
+
+    Expression [x]
+
+    Tag
+
+Q4:
+When configuring a tag binding, what does the "Direct" mode mean?
+A:
+
+    Directly poll the value of the tag in the tag provider [x]
+
+    Directly query the Tag Historian system for the last known value
+
+    Directly poll the OPC address, bypassing the tag system
+
+    Build a tag path using parameters
+
+    None of the above
+
+Q5:
+When configuring a binding, the title bar of the binding window (the bar at the top of the binding window) will show you...
+A:
+
+    The name of the project
+
+    The name of the component, property category, and property name [x]
+
+    The name of the current view
+
+    A preview of the binding
+
+    None of the above
+
+Q6:
+The easiest way to synchronize the value on a component property, with the value on another property, is to.... (choose ONE)
+A:
+
+    bind both properties to a tag
+
+    use a property binding [x]
+
+    write a script
+
+    Any of the above
+
+    None of the above
+

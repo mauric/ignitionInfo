@@ -1,0 +1,32 @@
+
+Q1:
+The dimensions of a view that has been docked are determined mostly by the size of the view.
+A:
+
+    True
+    [x]False
+
+Correct
+Q2:
+When configuring a Docked View, the "View Parameters" property does which of the following? (choose ONE)
+A:
+
+    Pass a value to the matching "params" property on all views on the page
+
+    None
+
+    [x]Pass a value to the matching "params" property on the docked view
+
+    Pass a value to a session prop when the page is opened
+
+    Pass a value to the matching "params" property on the primary view
+
+Correct
+Q3:
+Shared Settings allows you to configure docks that are applied to all pages in the project.
+A:
+
+    [x]True
+    False
+
+Correct

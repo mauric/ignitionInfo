@@ -1,0 +1,39 @@
+
+Q1:
+When working with Parameterized Popup Views, you should place a property under the ________ category of properties on the Popup View
+A:
+
+    [x]PARAMS
+
+    CUSTOM
+
+    PROPS
+
+    Any of the above
+
+    None of the above
+
+Correct
+Q2:
+The _______ Behavior property on the Popup Action allows you to control whether or not a user can drag a popup view in a session.
+A:
+
+    [x]Draggable
+
+    Resizable
+
+    Hideable
+
+    Moveable
+
+    None of the above
+
+Correct
+Q3:
+For a View to be called as a popup, you must first set the "Docked" property to "Floating".
+A:
+
+    True
+    [x]False
+
+Correct

@@ -1,0 +1,35 @@
+ Congratulations!
+
+You passed the Navigation Windows challenge! You are on your way to earning a credential.
+Q1:
+You can use any component such as a label or an image to perform navigation.
+A:
+
+    True [x]
+    False
+
+Correct
+Q2:
+It is possible to have multiple windows opened, even if you can't see them, using the open navigation operation.
+A:
+
+    True [x]
+    False
+
+Correct
+Q3:
+Swapping windows involves closing one window and then opening another window in its place.
+A:
+
+    True [x]
+    False
+
+Correct
+Q4:
+The Tab Strip component has it built-in to swap to the window you select.
+A:
+
+    True [x]
+    False
+
+Correct

@@ -1,0 +1,95 @@
+-------------------------------------------------------------------------------------
+PERSPETIVE VIEW / COORDINATE CONTAINER
+-------------------------------------------------------------------------------------
+
+
+Q1:
+When a component is placed into a Column Container, the ____ property is responsible for the span and position of the component.
+A:
+
+    breakpoint x
+
+    style
+
+    location
+
+    span
+
+    child
+
+Correct
+Q2:
+When a component is placed inside of a Flex Container, the _____ property (under the POSITION category) determines the preferred "size" of the component as it sits in the container
+A:
+
+    grow
+
+    alignSize
+
+    shrink
+
+    alignItems
+
+    basis x
+
+Correct
+Q3:
+When a component is placed inside of a Flex Container, if you don't want the component to increase in size as the container becomes larger, then you set the ______ property to 0.
+A:
+
+    enlarge
+
+    grow x
+
+    shrink
+
+    alignSize
+
+    alignItems
+
+Correct
+Q4:
+Which container bestows X, Y, Width, and Height properties to components placed inside of it?
+A:
+
+    Tab
+
+    Flex
+
+    Column
+
+    Breakpoint
+
+    Coordinate x
+
+Correct
+Q5:
+The ______ Container has just two children configurations, Small and Large, which the container switches between when resized.
+A:
+
+    Flex
+
+    Column
+
+    Tab
+
+    Coordinate
+
+    Breakpoint x
+
+Correct
+Q6:
+The _______ Container, the most simplistic container, allows components to be configured with an X and Y coordinate.
+A:
+
+    Column
+
+    Breakpoint
+
+    Flex
+
+    Coordinate x
+
+    Tab
+
+Correct
