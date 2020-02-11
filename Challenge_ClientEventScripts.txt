@@ -1,0 +1,146 @@
+------------------------------------------------------------------------------
+PYTHON SCRIPTING - CLIENT EVENT SCRIPTING
+------------------------------------------------------------------------------
+Q1:
+To send a message to the Gateway using system.util.sendMessage, what should the value of the "scope" argument be?
+A:
+
+    Project [NO]
+
+Review video
+Incorrect
+Q2:
+To get a menu item to execute when the user pressed F1, you would configure a:
+A:
+
+    Key Event
+
+    Mnemonic Character
+
+    Accelerator [X]
+
+    Any of the above
+
+    None of the above
+
+Correct
+Q3:
+If a timer script that is configured at fixed rate of 5,000ms takes 250ms to finish executing, what is the time between execution finishing and starting again (in milliseconds)?
+A:
+
+    5000
+
+    250
+
+    4750 [X]
+
+    5250
+
+    None of the above
+
+Correct
+Q4:
+If a timer script configured for fixed delay of 1,000ms takes 1,000ms to execute, how many times will it execute in a 4 second period? (no dots or commas)
+A:
+
+    4 [X]
+
+Review video
+Incorrect
+Q5:
+Which of these are the required arguments to system.util.sendMessage()? Select all that apply.
+A:
+
+    user
+
+    scope
+
+    project [X]
+
+    sessionId
+
+    messageHandler [X]
+
+Correct
+Q6:
+Which of the following activities should be wrapped in a function and executed using system.util.invokeLater if attempted during a client startup script? Select all that apply.
+A:
+
+    Retargeting [X]
+
+    Logging out [X]
+
+    Writing to Tags
+
+    Opening Windows
+
+    All of the above
+
+Correct
+Q7:
+A Gateway startup script will only run once when the Gateway first starts up.
+A:
+
+    True
+    False [X]
+
+Timer tasks that run quickly should use _______ threading.
+A:
+
+    Dedicated
+
+    Shared [X]
+	
+	
+You need to configure a client tag change script per tag you want to monitor.
+A:
+
+    True
+    False [X]
+
+Message handlers are only useful for sending messages to clients
+A:
+
+    True
+    False [X]
+
+To configure a keystroke script for "Shift-F5", you could use the action: (Select all that apply)
+A:
+
+    KeyDown
+
+    Pressed [x]
+
+    Released [x]
+
+    Typed [no]
+
+    KeyUp	
+	
+When a message handler script runs, the payload object is...
+A:
+
+    Information about the originating system
+
+    A dictionary created by the sender [X]
+
+    The project name of the sender
+
+    Information about the target system
+
+    None of the above
+
+If a timer script configured for fixed delay of 1,000ms takes 1,000ms to execute, 
+how many times will it execute in a 4 second period? (no dots or commas)
+A:
+
+    2
+
+If a timer script that is configured at fixed rate of 5,000ms takes 250ms
+ to finish executing, what is the time between execution finishing and starting
+ again (in milliseconds)?
+A:
+
+
+    4750
+	

@@ -1,0 +1,92 @@
+------------------------------------------------------------------------------
+MANIPULATING VISION COMPONENTES
+------------------------------------------------------------------------------
+
+
+Q1:
+Which layout mode allows a component to resize only in width?
+A:
+
+    Anchored - Top, Left, Bottom, Right
+
+    Anchored - Bottom, Right
+
+   [X] Anchored - Top, Left, Right
+
+    Relative - Maintain Aspect Ratio
+
+    Anchored - Center
+
+Correct
+------------------------------------------------------------------------------
+Q2:
+You can hold down the _______ key and click to select multiple components on the window using your mouse.
+A:
+
+    Ctrl
+
+    Command
+
+   [X] Alt
+
+    Shift
+
+    None of the above
+
+Correct
+Q3:
+You can hold down the _______ key while dragging your mouse to select components in the path that you draw.
+A:
+
+    Shift
+
+   [X] Ctrl
+
+    Alt
+
+    Command
+
+    None of the above
+
+Correct
+------------------------------------------------------------------------------
+Q4:
+You have to hold down the _______ key to move a container around the window.
+A:
+
+    Shift
+
+   [X] Alt
+
+    Ctrl
+
+    Command
+
+    None of the above
+
+Correct
+------------------------------------------------------------------------------
+Q5:
+Using the arrow keys, components move by _______ pixels at a time and _______ pixels when holding down the ALT key.
+A:
+
+    5, 5
+
+    10, 1
+
+    1, 5
+
+   [X] 1, 10
+
+    1, 1
+
+Correct
+------------------------------------------------------------------------------
+Q6:
+You can only group vector graphics together on a window.
+A:
+
+    True
+    [X]False
+
+Correct

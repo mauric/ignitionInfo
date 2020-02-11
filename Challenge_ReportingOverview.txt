@@ -1,0 +1,57 @@
+-------------------------------------------------------------------------------------
+REPORTING Overview
+------------------------------------------------------------------------------------
+Q1:
+Which of the following is NOT a tab in the report workspace?
+A:
+
+    Schedule
+
+    Designer x
+
+    Preview
+
+    Report Overview
+
+    Data
+
+Correct
+Q2:
+Under the Data Tab, there are two main types of data. Select the two types below.
+A:
+
+    Queries
+
+    Expressions x
+
+    Parameters x
+
+    Data Sources
+
+    Properties
+
+Correct
+Q3:
+Scheduled Reports can only utilize a single action
+A:
+
+    True
+    False x
+
+Correct
+Q4:
+The 7.8 Reporting module is not backwards compatible with previous versions of the module.
+A:
+
+    True
+    False x
+
+Correct
+Q5:
+Data points collected from the Data tab of a report are translated to keys, which can be dragged directly onto a report.
+A:
+
+    True x
+    False
+
+Review video

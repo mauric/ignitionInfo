@@ -1,0 +1,49 @@
+------------------------------------------------------------------------------
+TAG BINDIGS IN VISION
+------------------------------------------------------------------------------
+Q1:
+When you drag a tag onto the root container of the window, Ignition will ___________.
+A:
+
+    [x]display a list of components to create
+
+    automatically create a component based on the datatype of the tag
+
+    do nothing
+
+    bind the root container to the tag
+
+    None of the above
+
+Correct
+Q2:
+The tag history binding type cannot automatically poll for new data.
+A:
+
+    True
+    [x]False
+
+Correct
+Q3:
+Deleting or moving a tag that is used in binding will automatically update the reference in each binding.
+A:
+
+    True
+    [x]False
+
+Correct
+Q4:
+You can only bind __________ properties to the tag history binding type.
+A:
+
+    Color
+
+    Boolean
+
+    [x]Dataset
+
+    String
+
+    Double
+
+Correct

@@ -1,0 +1,113 @@
+---------------------------------------------------------------------------------------------
+Licensing and Activating Ignition
+---------------------------------------------------------------------------------------------
+
+A gateway can only have a single license active at a time.
+A:
+
+    True
+    [x]False
+
+
+---------------------------------------------------------------------------------------------
+
+The Modules page on the Gateway shows the licensing state of each module installed on the gateway.
+A state of "Activated" means the module will only function while the Trial Timer is non-zero.
+A:
+
+    True
+    [x]False
+
+---------------------------------------------------------------------------------------------
+
+Modules may be added to a license after the license has been activated on a gateway.
+To apply the changes, you must click the ____ button on the gateway.
+A:
+
+    [x]update license
+
+    activate/unactivate
+
+    activate
+
+    upload request file
+
+    restore backup
+
+---------------------------------------------------------------------------------------------
+
+Ignition requires a persistent Internet connection to stay licensed.
+A:
+
+    True
+    [x]False
+
+---------------------------------------------------------------------------------------------
+Unlicensed modules can run on a trial. Once the trial is started, how long does it last for?
+A:
+
+    7 days
+
+    10 mins
+
+    5 hours
+
+    [x]2 hours
+
+    1 day
+
+---------------------------------------------------------------------------------------------
+When activating a license, the Ignition server must have an Internet connection.
+A:
+
+    True
+    [x]False
+
+---------------------------------------------------------------------------------------------
+When activating manually, Ignition will prompt you to download a(n) ________ file to take 
+to the Inductive Automation website.
+A:
+
+    activation.txt
+
+    license_request.txt
+
+    license.ipl
+
+    activation _request.gwbk
+
+    [x]activation_message.txt
+---------------------------------------------------------------------------------------------
+
+Ignition CD-Keys are valid for any operating system.
+A:
+
+    [x]True
+    False
+---------------------------------------------------------------------------------------------
+You can check which modules your license is valid for in the ________ page of 
+the Gateway Webpage's Configure section. Hint: all lower case letters.
+
+Respuesta:
+
+licensing
+
+---------------------------------------------------------------------------------------------
+To modify a license that has already been activated, you must first unactivate the license.
+A:
+
+    True
+    [x]False
+---------------------------------------------------------------------------------------------
+
+You can transfer an active Ignition license to another Gateway by clicking the Transfer License 
+button in the Configure section of the Gateway Webpage.
+A:
+
+    True
+    [x]False
+
+
+
+
+

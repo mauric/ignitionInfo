@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------------
+SECURITY IGNITION - AUDITING - ALARM NOTIFICATION AUDITING
+-------------------------------------------------------------------------------------
+Q1:
+Which of the following is stored in an Audit Profile when an Email Notification profile is attached? Select all that apply.
+A:
+
+    Alarm Clear events
+
+    SMS Acknowledge events
+
+    Email Alarm events
+
+    Email Acknowledge events
+
+    None of the above
+
+Correct
+Q2:
+Which of the following is stored in the Audit log? Select all that apply.
+A:
+
+    Timestamp
+
+    Actor Host
+
+    Actor
+
+    Action
+
+    Action Target
+
+Correct
+Q3:
+Audit Profiles have filter settings for data storage.
+A:
+
+    True
+    False
+
+Correct
+Q4:
+Email Notification profiles will automatically store information to the Audit profile that is attached to their project.
+A:
+
+    True
+    False
+

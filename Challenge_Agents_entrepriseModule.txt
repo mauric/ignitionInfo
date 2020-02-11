@@ -1,0 +1,96 @@
+
+Q1:
+Which of the following options are available when creating an Agent? Select all that apply.
+A:
+
+    Collect Backup no
+
+    Agent Recovery x
+
+    Send Project Resources no
+
+    Send Project no
+
+    New Agent x
+
+Review video
+Incorrect
+Q2:
+The Controller's Archive Path is relative to the computer the Controller is installed on
+A:
+
+    True x
+    False
+
+Correct
+Q3:
+When adding an Agent, if the Controller is running in SSL mode, you must select an existing Gateway Network connection.
+A:
+
+    True x
+    False
+
+Correct
+Q4:
+The EAM structure allows what amount of Controllers and Agents?
+A:
+
+    multiple Controllers and only one Agent
+
+    multiple Controllers and multiple Agents NO
+
+    only one Controller and multiple Agents
+
+    only one Controller and only one Agent
+
+    Any of the Above
+
+Review video
+Incorrect
+Q5:
+Which of the following is available in the Designer when the EAM module is installed? Select all that apply.
+A:
+
+    EAM Tags x
+
+    EAM Tasks
+
+    EAM Scripting Functions x
+
+    EAM Tables
+
+    EAM Function Bindings x
+
+Correct
+Q6:
+The Controller's Archive Path is used to store information about the Agents.
+A:
+
+    True x
+    False
+
+Correct
+Agents can be restarted from the Controller.
+A:
+
+    True x
+    False
+
+There is a Version Tag available for each Agent on the Controller Gateway.
+A:
+
+    True x
+    False
+
+Which of the following options are available to connected Agents? Select all that apply.
+A:
+
+    Projects x
+
+    Restart Agent x
+
+    Remove Modules
+
+    Agent Sync
+
+    Installed Modules x

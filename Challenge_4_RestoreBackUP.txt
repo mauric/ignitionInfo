@@ -1,0 +1,127 @@
+------------------------------------------------------------------------------------------
+What will happen when a gateway backup is restored?
+A:
+
+    The projects from the Backup will be automatically merged into the Gateway
+
+    The user will be prompted to merge projects into the Gateway 
+
+    [x]All of the server's configuration except activation status will be overwritten
+
+    The user will be prompted to merge all of the server's configuration into the Gateway
+
+    All of the server's configuration will be overwritten
+	
+	
+------------------------------------------------------------------------------------------
+It is possible to merge some resources in a gateway backup into an existing Gateway using
+ a Gateway Restore.
+A:
+
+    True
+    [x]False
+
+------------------------------------------------------------------------------------------
+	A project backup will contain any tags that the project is using.
+A:
+
+    True
+    [x]False
+
+------------------------------------------------------------------------------------------
+Q4:
+Project exports can be merged into an existing Gateway or into another project.
+A:
+
+    [x]True
+    False
+
+------------------------------------------------------------------------------------------
+What is not included in a Gateway Backup?
+A:
+
+    Tags
+
+    [x]Database Data
+
+    Device Connections
+
+    Gateway Settings
+
+    Database Connections
+------------------------------------------------------------------------------------------	
+	
+The Gateway can be configured to automatically create Gateway Backup files on a schedule.
+When configured, the schedule is defined as a UNIX ________ style scheduling string.
+A:
+
+    XML
+
+    CSV
+
+    [x]Crontab
+
+    Formatted
+
+    REGEX	
+	
+	
+------------------------------------------------------------------------------------------	
+	
+You can restore a Gateway Backup using the Designer.
+A:
+
+    True
+    [x]False
+
+	
+------------------------------------------------------------------------------------------	
+	
+A Gateway Backup can only be taken from the Gateway webpage.
+A:
+
+    True
+    [x]False
+
+------------------------------------------------------------------------------------------	
+he Gateway can be configured to automatically create Gateway Backup files on a schedule. 
+When configured, the backup files may be saved to a shared folder on the network.
+A:
+
+    [x]True
+    False
+
+------------------------------------------------------------------------------------------		
+Uploading a project with the same name will automatically overwrite the existing project.
+A:
+
+    True
+    [x]False
+
+------------------------------------------------------------------------------------------	
+Restoring a Gateway Backup disabled will restore all projects and configuration, but will also ______ .
+
+Select all answers that apply
+A:
+
+    [x]Disable all database connections
+
+    Disable or remove a license
+
+    Disable all projects
+
+    Disable all modules
+
+    [x]Disable all device connections	
+	
+------------------------------------------------------------------------------------------		
+It is possible to merge some resources in a gateway backup into an existing Gateway using a Gateway Restore.
+A:
+
+    True
+    False
+
+	
+	
+	
+	

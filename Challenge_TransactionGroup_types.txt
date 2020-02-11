@@ -1,0 +1,80 @@
+When attempting to store bulk data from the PLC in a database table, which type of group offers the best performance?
+A:
+
+    Stored Procedure Group
+
+    Standard Group
+
+    Historical Group
+
+    Block Group x
+
+    None of the above
+
+	
+	
+Q2:
+It is important to stop a group before editing it.
+
+A:
+
+    True 
+    False x
+
+In order to log to a database table, the table must first be defined in the database.
+A:
+
+    True
+    False x
+
+
+Review video
+Incorrect
+Q3:
+In order to log to a database table, the table must first be defined in the database.
+A:
+
+    True
+    False
+
+Correct
+Q4:
+Transaction groups execute...
+A:
+
+    Globally
+
+    In the Gateway x
+
+    In the Client
+
+    In the Designer
+
+Review video
+Incorrect
+Q5:
+Which Type of group is the only group that features an "Output" column on the Basic OPC/Group Items table?
+A:
+
+    Historical Group
+
+    Stored Procedure Group x
+
+    Standard Group
+
+    Block Group
+
+    None of the above
+
+Review video
+
+Transaction groups are provided by the...
+A:
+
+    MySQL Module
+
+    Transaction Management Module
+
+    SQL Bridge Module x
+
+    Vision Module

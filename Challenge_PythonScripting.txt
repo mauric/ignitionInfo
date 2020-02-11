@@ -1,0 +1,71 @@
+------------------------------------------------------------------------------
+PYTHON SCRIPTING
+------------------------------------------------------------------------------
+
+From a component's event script, which of these will reference the container the component is in?
+A:
+
+    event.source.parent `[X]
+
+    getParent()
+
+    event.container
+
+    event.parent
+
+    event.parentContainer
+
+Correct
+Q2:
+Which of the following would successfully reference component named "A" if "container" is a reference to a Vision container?
+A:
+
+    container["A"]
+
+    container.getChild("A")
+
+    container.getComponent("A")[X]
+
+    All of the above
+
+    None of the above
+
+Correct
+Q3:
+Event objects all contain the same properties.
+A:
+
+    True
+    False[X]
+
+Correct
+Q4:
+The first thing you should do in a propertyChange event script is:
+A:
+
+    Run in an invokeLater
+
+    Print out a logging message
+
+    Check the name of the property that changed [X]
+
+    All of the above
+
+    None of the above
+
+Correct
+Q5:
+Suppose you have a Button component, and you want a script to run when the Button is pressed. Which of the following event handlers would be most suitable?
+A:
+
+    actionPerformed [X]
+
+    mousePressed
+
+    mouseReleased
+
+    mouseClicked
+
+    None of the above
+
+Correct

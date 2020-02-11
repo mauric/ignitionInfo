@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+PYTHON SCRIPTING - SESSION EVENT SCRIPTS
+------------------------------------------------------------------------------
+Q1:
+A Session Startup script can be used to pass a parameter into the new session.
+A:
+
+    True [X]
+    False
+
+Review video
+Incorrect
+Q2:
+All Session Event scripts have access to:
+A:
+
+    a session object containing details about the session. [X]
+
+    all configured views in the session.
+
+    a self object containing details about the component that fired the event.
+
+    All of the above.
+
+    None of the above.

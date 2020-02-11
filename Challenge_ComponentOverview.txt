@@ -1,0 +1,70 @@
+------------------------------------------------------------------------------
+UNDERSTANDING PERSPECTIVE COMPONENTS
+------------------------------------------------------------------------------
+Q1:
+Which of the following are valid types of properties that can be added to a component in Perspective? Select all that apply.
+A:
+
+    Dictionary
+
+    All of the above
+
+    Object [X]
+
+    List
+
+    Value [X]
+
+Correct
+Q2:
+When in the Designer, double-clicking on a component_____
+A:
+
+    "Deep Selects" the component
+
+    Opens the component customizer [NO]
+
+    Selects all like components in the container
+
+    Opens the Event Scripting Window
+
+    Shows a context menu
+
+Review video
+Incorrect
+Q3:
+While the root container is selected in the Designer, clicking and dragging on the root container will create a selection box. If you drag the box to the left, it will have a dashed border, which selects all components the box touches.
+A:
+
+    True [X]
+    False
+
+Correct
+Q4:
+When a property is marked as "Persistent"....
+A:
+
+    Bindings will fail to evaluate on the property
+
+    The property can't be deleted
+
+    The value of the property is saved along with the project, and loaded when the parent view opens [X]
+
+    All of the above
+
+    None of the above
+
+Correct
+
+The "Props" category of properties do which of the following (select ONE).
+A:
+
+    Controls how a component appears or behaves in a Session [x]
+
+    Control common properties, such as the name or visible state of the component
+
+    Determine the position of the component within it's parent container
+
+    All of the above
+
+    None of the above

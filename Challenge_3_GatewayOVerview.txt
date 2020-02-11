@@ -1,0 +1,101 @@
+------------------------------------------------------------------------------------------
+After first installing Ignition, which of the following actions on the Gateway webpage require login?
+
+Select all answers that apply
+A:
+
+    [x]View the Gateway logs.
+
+    Download Application Launchers.
+
+    Download the Designer Launcher.
+
+    [x]View the Status Overview page.
+
+    [x]View the Configure section.
+
+	
+------------------------------------------------------------------------------------------	
+	Which of the following can be done from the Gateway Command Utility?
+A:
+
+    [x]Change Ignition Gateway ports.
+
+    [x]Take a Gateway backup.
+
+    [x]Activate a new license.
+
+    All of the above.  <<<----
+
+    None of the above.
+
+------------------------------------------------------------------------------------------
+	The Command Line Utility can be used to restore administrative access to a gateway when
+	the password has been forgotten.
+A:
+
+    [x]True
+    False
+------------------------------------------------------------------------------------------
+The only place to view logging information on the Gateway Status page is from the Logs 
+section under Diagnostics.
+A:
+
+    True
+    [x]False
+
+------------------------------------------------------------------------------------------
+	
+The Homepage Redirect URL can be used to redirect to a fully-qualified URL, like
+ https://inductiveautomation.com.
+A:
+
+    [x]True
+    False
+------------------------------------------------------------------------------------------
+The Gateway Status page shows details about which of the following?
+
+Select all answers that apply
+A:
+
+    [x]Alarm Pipelines
+
+    [x]OPC Connections
+
+    [x]Gateway Scripts
+
+    [x]Device Connections
+
+    [x]Database Connections
+
+------------------------------------------------------------------------------------------	
+The only place to view logging information on the Gateway Status page is from the Logs 
+section under Diagnostics.
+A:
+
+    True
+    [x]False
+
+	
+------------------------------------------------------------------------------------------
+By default, the Gateway webpage can be accessed using a URL of "localhost:8088," unless the gateway
+ is installed on a different machine.
+A:
+
+    [x]True
+    False
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

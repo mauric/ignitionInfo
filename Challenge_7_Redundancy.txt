@@ -1,0 +1,45 @@
+------------------------------------------------------------------------------------------------
+IGNITION REDUNDANCY
+------------------------------------------------------------------------------------------------
+
+
+Q1:
+In Redundancy, ________ History Mode means that the Backup Node will not store data until
+ it reconnects to the Master Node. Hint: one word, lowercase letters only.
+
+Type your answer in the field provided
+A:
+
+
+partial
+
+------------------------------------------------------------------------------------------------
+Q2:
+In a redundant system, you must manually synchronize your projects across both gateways.
+A:
+
+    True
+    [x]False
+------------------------------------------------------------------------------------------------
+Q3:
+When configuring Redundancy, the Automatic Recovery Mode means that the Master Node will always attempt to be the active node.
+A:
+
+    True [x]
+    False
+------------------------------------------------------------------------------------------------
+Q4:
+Redundancy involves linking ______ copies of Ignition.
+A:
+
+    2 `[x]
+
+    8
+
+    16
+
+    20
+
+    4
+	
+------------------------------------------------------------------------------------------------

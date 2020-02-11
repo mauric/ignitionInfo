@@ -1,0 +1,41 @@
+------------------------------------------------------------------------------
+BINDING PROTERTIES
+------------------------------------------------------------------------------
+Q1:
+An expression binding has to return a single result.
+A:
+
+    [X]True
+    False
+
+Correct
+Q2:
+Expression bindings can use _______________. Select all that apply.
+A:
+
+    [X]Logical Operations
+
+    [X]Functions
+
+    [X]Tags
+
+    [X]Bitwise Operations
+
+    [X]Mathematical Operations
+
+Correct
+Q3:
+In the component property editor, a bold property name indicates that the property is ___________.
+A:
+
+    advanced
+
+    static
+
+    a custom property
+
+    [X]bound
+
+    None of the above
+
+Correct

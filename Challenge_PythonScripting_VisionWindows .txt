@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------
+PYTHON SCRIPTING - VISION WINDOWS AND SCRIPTING
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Q1:
+From a component event script, you can only reference components within that same window.
+A:
+
+    True
+    False [x]
+
+Correct
+Q2:
+The system.nav.openWindow() method takes an optional dictionary argument in order to pass parameters to the target window. What are the keys of this dictionary?
+A:
+
+    Window custom property names
+
+    Component paths
+
+    Property values
+
+    Root container custom property names [x]
+
+    Tag paths
+
+Correct
+Q3:
+How does the system.nav.swapTo() function know which window to swap from?
+A:
+
+    It uses the window that the function is called from
+
+    It uses the window that is currently visible
+
+    It uses the project startup window
+
+    It uses the most recently opened window
+
+    It uses the currently maximized window [x]
+
+Correct

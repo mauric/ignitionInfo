@@ -1,0 +1,120 @@
+-------------------------------------------------------------------------------------
+TRANSACTION GROUPS IGNITION / TRANSACTION GROUP ITEMS / TAG REFERERNCE VS OPC ITEMS
+-------------------------------------------------------------------------------------
+Q1:
+Only run-always expression items can be used as a trigger.
+A:
+
+    True x
+    False
+
+Review video
+Incorrect
+Q2:
+In order to reset an event or hour meter from the database, you should:
+A:
+
+    Set the item to bi-directional, db-wins [X]
+
+    Make the item read-only
+
+    Use DB-to-OPC mode on the group
+
+    Use a custom where clause
+
+    Use a trigger
+
+Correct
+Q3:
+In order to use an expression item as a trigger, it must be:
+A:
+
+    A boolean
+
+    Set to run-always x
+
+    Not a SQL Query
+
+    The first item in the group
+
+    A SQL Query [NO]
+
+Review video
+Incorrect
+Q4:
+Expression items in groups can only use special group-related functions.
+A:
+
+    True
+    False [X]
+
+Correct
+Q5:
+In order to accumulate the total time that a value has been true, even across value changes, the hour meter should be set to:
+A:
+
+    On-zero
+
+    On change
+
+    Bi-directional
+
+    Read-only
+
+    Retentive [X]
+
+Correct
+Q6:
+The following item mode can be used to accumulate time while a condition is true:
+A:
+
+    Event meter
+
+    Exponential filter
+
+    Hour meter [X]
+
+    Read-only
+
+    Run-always
+
+Correct
+
+
+f a group is set to run at 10 seconds, and has a reference to a tag that is executed in a 1 second scan class, the alarm on the tag will be evaluated:
+A:
+
+    When the group is triggered [NO]
+
+    Every 10 seconds
+
+    When the group successfully writes to the database
+
+    Every 1 second
+	
+Expression items in groups can only use special group-related functions.
+A:
+
+    True x
+    False
+
+Correct
+Q6:
+Only run-always expression items can be used as a trigger.
+A:
+
+    True x
+    False
+The units of an hour meter must be the same as that of the group update rate.
+A:
+
+    True
+    False x
+
+When a trigger is not defined, Triggered Expression Items never execute.
+A:
+
+    True 
+    False x
+
+

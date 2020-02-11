@@ -1,0 +1,70 @@
+------------------------------------------------------------------------------
+SQL DB CONNECTIONS BINDIGS
+------------------------------------------------------------------------------
+Q1:
+You can only enable the UPDATE query on dataset properties.
+A:
+
+    True
+    [x]False
+
+Correct
+Q2:
+A named query must be configured before it can be used in a Named Query binding.
+A:
+
+    [x]True
+    False
+
+Correct
+Q3:
+The DB Browse binding is technically equivalent to the SQL Query binding, except that it _____________________.
+A:
+
+    only runs the query once
+
+    only brings back a single result
+
+    only allows UPDATE queries
+
+    helps write the queries for you [x]
+
+    None of the above
+
+Correct
+Q4:
+What is the default value for the project's base polling rate (relative polling mode)?
+A:
+
+    30 seconds
+
+    [x]5 seconds
+
+    1 minute
+
+    10 seconds
+
+    2 seconds
+
+Correct
+Q5:
+The DB Browse binding supports dynamic filters.
+A:
+
+    [x]True
+    False
+
+Correct
+Q6:
+If you leave the database connection blank in the SQL query binding, Ignition will _________________.
+A:
+
+    [x]use the project's default database connection
+
+    use the first database connection configured in Ignition
+
+    use the last database connection configured in Ignition
+
+    error out
+
+    None of the above

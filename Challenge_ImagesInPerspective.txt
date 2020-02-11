@@ -1,0 +1,53 @@
+------------------------------------------------------------------------------
+IMAGES IN PERSPECTIVE
+------------------------------------------------------------------------------
+When displaying an image from Image Management, the _____ property on the Image component allows you to paste the path to the image.
+A:
+
+    image
+
+    image path
+
+    path
+
+    source [X]
+
+    None of the above
+
+Correct
+Q2:
+SVGs can be modified in the Designer by modifying the nodes under the elements property.
+A:
+
+    True [X]
+    False
+
+Correct
+Q3:
+You can import an SVG onto a Perspective view by.... (select one)
+A:
+
+    Using the SVG component
+
+    Dragging the SVG file onto the view in the Designer `[X]
+
+    File menu > Import > Import SVG
+
+    All of the above
+
+    None of the above
+
+Correct
+Q4:
+When working with the icon component, the ______ property determines which icon to use. (select one)
+A:
+
+    source [no]
+
+    image
+
+    image path
+
+    path
+
+    None of the above

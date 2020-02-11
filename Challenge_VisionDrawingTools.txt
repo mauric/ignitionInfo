@@ -1,0 +1,111 @@
+------------------------------------------------------------------------------
+VISION DRAWING TOOLS
+------------------------------------------------------------------------------
+Q1:
+Which property would you modify to change the interior color of the shape?
+A:
+
+    [x]Fill Paint
+
+    Stroke Style
+
+    Stroke Paint
+
+    Styles
+
+    None of the above
+
+Correct
+Q2:
+Which property would you modify to give the shape a dashed outline?
+A:
+
+    Fill Paint
+
+    Stroke Paint
+
+    Stroke Style [x]
+
+    Styles
+
+    None of the above
+
+Correct
+Q3:
+You can modify the direction of the gradient by using the gradient tool.
+A:
+
+    True [x]
+    False
+
+Correct
+Q4:
+Using the eyedropper tool, a left click will set the selected component's ___________ color.
+A:
+
+    Background / Fill [x]
+
+    Foreground / Stroke
+
+Correct
+Q5:
+Which of the following is not a valid drawing tool?
+A:
+
+    Arrow
+
+    Polygon
+
+    Gradient
+
+    Star [x]
+
+    Path
+
+Correct
+Q6:
+Which shape geometry function would you use to cut out one shape from another?
+A:
+
+    Difference [x]
+
+    Union
+
+    Exclusion
+
+    Intersection
+
+    Division
+
+
+Correct
+Q7:
+When drawing a line using the line tool, pressing _______ will complete the line after 2 or more points are created.
+A:
+
+    Enter [x]
+
+    Alt
+
+    Shift
+
+    Esc
+
+    None of the above 
+
+Correct
+Q8:
+Which of the following is not a valid fill paint type of a shape?
+A:
+
+    No Paint
+
+    Solid Color
+
+    Radial Gradient
+
+    Pattern Paint
+
+    None of the above[x]
+
+Correct

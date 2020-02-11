@@ -1,0 +1,142 @@
+------------------------------------------------------------------------------------------------
+OPC UA
+------------------------------------------------------------------------------------------------
+
+Allen-Bradley Ethernet Drivers
+------------------------------------------
+Q1:
+It is possible to connect to a Allen-Bradley PLC5 through serial.
+A:
+
+    True
+    [x]False
+
+Correct
+
+------------------------------------------------------------------------------------------------
+Q2:
+The ControlLogix driver in Ignition supports browsing.
+A:
+
+    [x]True
+    False
+
+Correct
+
+
+------------------------------------------------------------------------------------------------
+Q3:
+Which of the following connection paths would you use to connect a SLC through a ControlLogix when the DHRIO module is in slot 2 and the SLC is on DH+ channel B with station number 21?
+A:
+
+    0,1,3,21
+
+    [x]1,2,3,21
+
+    1,3,3,21
+
+    1,0,3,2,21
+
+    1,3,2,21
+
+------------------------------------------------------------------------------------------------	
+What is the default number of concurrent requests for a ControlLogix or CompactLogix device in Ignition?
+A:
+
+    [x]2
+
+    4
+
+    10
+
+    8
+
+    5
+	
+------------------------------------------------------------------------------------------------	
+MODBUS DRIVER	
+------------------------------------------	
+
+You cannot import/export Modbus address mappings to/from CSV.
+A:
+
+    True
+    [x]False
+
+------------------------------------------------------------------------------------------------
+Using the Modbus Address Mapping feature, how many tags will get created if the Prefix is set to V, the Start is set to 45, the End is set to 75, and the Radix is set to 8?
+A:
+
+    30
+
+    75
+
+    24
+
+    25
+
+    None of the above
+------------------------------------------------------------------------------------------------
+Q2:
+Which of the following Modbus addresses would I use to read 2 consecutive Holding Registers with float conversion starting at Modbus address 2?
+A:
+
+    HRBCD2
+
+    HRI2
+
+    HRF2
+
+    HR2
+
+    None of the above
+------------------------------------------------------------------------------------------------
+The Modbus driver in Ignition supports browsing.
+A:
+
+    True
+    [X]False
+------------------------------------------------------------------------------------------------
+What is the default TCP port for Modbus?
+A:
+
+    43920
+
+    205
+
+    8088
+
+    [X]502
+
+    80
+------------------------------------------------------------------------------------------------
+
+Which of the following Modbus addresses would I use to read 2 consecutive Holding Registers with float conversion starting at Modbus address 2?
+A:
+
+    [x]HRF2
+
+    HR2
+
+    HRI2
+
+    HRBCD2
+
+    None of the above
+------------------------------------------------------------------------------------------------
+Which of the following Modbus addresses would I use to read Holding Register 2 as a 16bit BCD value?
+A:
+
+    HR2
+
+    IRBCD2
+
+    BCD2
+
+    [X]HRBCD2
+
+    None of the above
+
+
+
+

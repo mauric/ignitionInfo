@@ -1,0 +1,86 @@
+---------------------------------------------------------------------------------------------
+IGNITION EDGE
+---------------------------------------------------------------------------------------------
+Ignition Edge can have how many projects?
+A:
+
+    5
+
+    10
+
+    [x]1
+
+    Unlimited
+
+    3
+---------------------------------------------------------------------------------------------
+Q2:
+Which of the following is NOT a function of an Edge plugin?
+A:
+
+    Pushing Data to an MQTT Broker
+
+    Local Client Fallback
+
+    Connecting to an Ignition Enterprise network
+
+    [x]Connecting to OPC-UA Devices
+
+    None of the above
+---------------------------------------------------------------------------------------------
+Q3:
+Which of the following are Edge plugins?
+
+Select all answers that apply
+A:
+
+    Reporting
+
+    [x]MQTT
+
+    [x]Enterprise
+
+    [x]Panel
+
+    Tag Historian
+---------------------------------------------------------------------------------------------
+Q4:
+The Ignition Edge Panel plugin can be used as a Local Client Fallback.
+A:
+
+    [x]True
+    False
+---------------------------------------------------------------------------------------------
+Q5:
+Ignition Edge requires a link to a central Ignition Gateway.
+A:
+
+    True
+    [x]False
+---------------------------------------------------------------------------------------------
+ag History Synchronization pushes the Tag History saved 
+in the Edge Gateway to a history provider on a central Ignition system.
+A:
+
+    [x]True
+    False
+---------------------------------------------------------------------------------------------
+The Ignition Edge Panel plugin can be used as a Local Client Fallback.
+A:
+
+    [x]True
+    False
+---------------------------------------------------------------------------------------------
+Ignition Edge uses a separate installer.
+A:
+
+    True
+    [x]]False
+---------------------------------------------------------------------------------------------
+An Ignition Edge Gateway can only have a single plugin.
+A:
+
+    True
+   [x] False
+
+

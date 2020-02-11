@@ -1,0 +1,91 @@
+------------------------------------------------------------------------------
+SECURITY IN IGNITION / USER PROFILES / 
+------------------------------------------------------------------------------
+
+A Database Authentication profile requires an Internal failover source.
+A:
+
+    True`
+    False [X]
+
+Review video
+Incorrect
+Q2:
+Internal User Sources have a property that will expires each user's password after a certain number of days. What is the name of that property?
+A:
+
+    Password Expiration
+
+    Password History
+
+    Password Max Age [X]
+
+    Password Duration [NO]
+
+Review video
+Incorrect
+Q3:
+AD/Internal Hybrid authentication profiles can be managed from the User Management Component.
+A:
+
+    True [X]
+    False
+
+Correct
+Q4:
+Which of the following authentication profile types allow using SSO (Single Sign On)? Select all that apply.
+A:
+
+    Active Directory
+
+    AD/Internal Hybrid [X]
+
+    AD/Database Hybrid
+
+    Database
+
+    Internal
+
+Review video
+Incorrect
+Q5:
+Multiple roles can be given to a single user.
+A:
+
+    True [X]
+    False
+
+Correct
+Q6:
+In an authentication profile, a ________ Failover Mode will check against the Failover Source if a user fails to authenticate.
+A:
+
+    soft [X]
+
+Correct
+Q7:
+Users are allowed to have no roles.
+A:
+
+    True [X]
+    False 
+
+
+
+
+
+Q3:
+Which of the following are valid table names for the automatically generated Database authentication profile?
+
+Select all answers that apply
+A:
+
+    scada_user_role
+
+    scada_user_role_map
+
+    scada_user_ex [X]
+
+    scada_user_sa [X]
+
+    None of the above

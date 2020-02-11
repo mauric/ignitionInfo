@@ -1,0 +1,116 @@
+------------------------------------------------------------------------------------------------
+ALARMING
+------------------------------------------------------------------------------------------------
+
+Q1:
+The alarm journal component will automatically update and poll the database for new alarms.
+A:
+
+    True
+    [X]False
+
+------------------------------------------------------------------------------------------------
+
+
+Q2:
+When you drag the alarm journal onto the window for the first time, it will pull all alarm
+events from the database.
+A:
+
+    True
+    [X]False
+
+
+------------------------------------------------------------------------------------------------	
+	
+Q3:
+An alarm can be in which of the following states? Select all that apply.
+A:
+
+    [X]Active and Acknowledged
+
+    [X]Cleared and Unacknowledged
+
+    Cleared and Acknowledged
+
+    Active and Un-notified
+
+    [X]Active and Unacknowledged
+	
+	faltan o sobran
+	
+------------------------------------------------------------------------------------------------	
+
+Q4:
+The source and display path filters on the alarm status component supports the wildcard *.
+A:
+
+    [X]True
+    False
+------------------------------------------------------------------------------------------------
+
+Q5:
+Which of the following can't you do with the alarm status component?
+A:
+
+    View Alarm Details
+
+    [X]View Alarm Pipelines
+
+    Acknowledge Alarms
+
+    View Tag History
+
+    Reorder Columns	
+
+------------------------------------------------------------------------------------------------
+
+Q6:
+Which property of the alarm journal component would you use to filter alarms based on their tag path?
+A:
+
+    Display Path Filter [false]
+
+    System Events
+
+    Min Priority
+
+    Source Filter
+
+    Active Events	
+	
+------------------------------------------------------------------------------------------------	
+
+Q7:
+To filter the alarm journal component on the alarm's associated data you must configure a script
+on which extension function?
+A:
+
+    filterAlarm
+
+    createPopupMenu
+
+    isShelveEnabled
+
+    onDoubleClicked
+
+    None of the above [false]
+
+------------------------------------------------------------------------------------------------
+
+
+Q8:
+Which property of the alarm status component would you use to filter alarms based on their tag path?
+A:
+
+    Show Active and Unacked
+
+    Show Clear and Unacked
+
+    [x]]Source Filter
+
+    Display Path Filter [false]
+
+    Show Clear and Acked	
+	
+------------------------------------------------------------------------------------------------	

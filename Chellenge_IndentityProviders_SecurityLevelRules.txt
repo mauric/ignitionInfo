@@ -1,0 +1,119 @@
+------------------------------------------------------------------------------
+SECURITY IN IGNITION / IDENTITY PROVIDERS / SECURITY LEVEL RULES
+------------------------------------------------------------------------------
+
+
+Q1:
+Unauthenticated users can not be granted a Security Level.
+A:
+
+    True
+    False [X]
+
+Review video
+Incorrect
+Q2:
+When configuring User Attribute Mapping entries on an Identity Provider, you must select a Type for each entry. Which of the following are valid types that appear in the dropdown menu? (select all that apply)
+A:
+
+    script
+
+    expression [X]
+
+    direct [X]
+
+    static
+
+    All of the above
+
+Correct
+Q3:
+When configuring Security Level Rules, the rules are defined using which language?
+A:
+
+    COBOL
+
+    Ignition's Expression Language [X]
+
+    Python
+
+    Typescript
+
+    C++
+
+Review video
+Incorrect
+Q4:
+The "Authenticated" Security Level, as well as levels under Authenticated, 
+are only applied to a user when they have authenticated against the Identity Provider.
+A:
+
+    True [X]
+    False
+
+Correct
+Q5:
+An Identity Provider is a system that handles user authentication.
+A:
+
+    True [X]
+    False
+
+Correct
+Q6:
+User Grants allow you to override the Security Level system, granting levels as you see fit.
+A:
+
+    True [X]
+    False
+
+Correct
+When configuring Security Level Rules, which items can not have custom logic applied to them?
+A:
+
+    Authenticated x
+
+    Public  x
+
+    Night Shift
+
+    Upper Management
+
+    None of the above
+	
+When creating an Identity Provider, you must select a type. Which of the following are valid types? (select all that apply)
+A:
+
+    Security Assertion Markup Language 2.0 x
+
+    IgnitionId Connect
+
+    Security Connection Markdown 3.0
+ 
+    Ignition x
+
+    OpenId Connect 1.0 x
+	
+When authenticating against an Identity Provider, the provider returns a ______ document,
+ which contains information about the user. (select one)
+A:
+
+    Response X
+
+    Return
+
+    Attribute
+
+    User
+
+    None of the above
+	
+	
+
+Q6:
+An Identity Provider is a system that handles user authentication.
+A:
+
+    True x
+    False
+

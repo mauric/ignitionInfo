@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------------
+SECURITY  - VISION CLIENT SECURITY - Componente Windows security
+-------------------------------------------------------------------------------------
+
+Q1:
+You can use the system.security.getRoles() function to require multiple roles for a specific action.
+A:
+
+    True x
+    False
+
+Q2:
+On a single Ignition Gateway, each project can use a different authentication profile.
+A:
+
+    True x
+    False
+
+Q3:
+In this image, which of the following is true? The selected component is ________.
+A:
+
+    Access denied for users without the SU role X
+
+    Disabled for users with the SU role
+
+    Disabled for users without the SU role
+
+    Access denied for users with the SU role
+
+    None of the above 
+
+Q4:
+Which of the following scripting areas allow using the system.security.getRoles() function?
+
+Select all answers that apply
+A:
+
+    Gateway Startup Script 
+
+    Client Tag Change Scripts x
+
+    Client Timer Scripts x
+
+    Gateway Tag Change Scripts
+
+    Component Event Handlers x
+

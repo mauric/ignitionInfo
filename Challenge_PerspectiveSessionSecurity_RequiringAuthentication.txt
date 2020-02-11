@@ -1,0 +1,35 @@
+-------------------------------------------------------------------------------------
+SECURITY IGNITION - PERSPECTIVE SESSION SECURITY - REQUIRING AUTHENTICATION
+-------------------------------------------------------------------------------------
+Q1:
+By default, Perspective Sessions require authentication
+A:
+
+    True
+    False
+
+Review video
+Incorrect
+Q2:
+When configuring an Event Script on a Perspective component, which action features a "Security Settings" button?
+A:
+
+    Popup
+
+    Logout
+
+    Login
+
+    Script
+
+    All of the above
+
+Review video
+Incorrect
+Q3:
+Permissions to certain views in a project can be configured directly on the view.
+A:
+
+    True
+    False
+

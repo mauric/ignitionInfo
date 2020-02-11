@@ -1,0 +1,74 @@
+------------------------------------------------------------------------------------------------
+GATEWAY NETWORK
+------------------------------------------------------------------------------------------------
+Which major systems use the gateway network? Select all that apply.
+A:
+
+    Remote Agents
+
+    Remote Database
+
+    Enterprise Administration
+
+    Remote Alarms
+
+    Remote Tag Providers
+
+
+------------------------------------------------------------------------------------------------
+Q2:
+Using remote alarms, you can install the Alarm Notification module on one gateway, but do not need to install it on remote gateways.
+A:
+
+    True
+    False
+
+Review video for help with answer
+Incorrect
+
+
+------------------------------------------------------------------------------------------------
+Q3:
+Tags in a Remote Tag Provider are stored and executed on the remote Gateway.
+A:
+
+    True
+    False
+
+Review video for help with answer
+Incorrect
+------------------------------------------------------------------------------------------------
+Q4:
+Incoming Gateway Network Connections must be approved by default.
+A:
+
+    True
+    [x]False
+
+Correct
+------------------------------------------------------------------------------------------------
+Q5:
+Remote Alarms allow you to use the Alarm Notification Pipelines of other gateways.
+A:
+
+    [x]True
+    False
+
+Correct
+
+------------------------------------------------------------------------------------------------
+Q6:
+What is the default SSL port for Gateway Network Connections?
+A:
+
+    12334
+
+    8043 x
+
+    8088
+
+    8060
+
+    0404
+	
+------------------------------------------------------------------------------------------------
