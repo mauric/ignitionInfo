@@ -1,0 +1,36 @@
+hart scope variables are accessed by: (Select all that apply)
+A:
+
+    Transition expressions x
+
+    Tag references
+
+    Component bindings
+
+    Step scripts x
+ 
+    SQL queries
+
+Correct
+Q2:
+A step or transition in the chart that has dangling connections will: (Select all that apply)
+A:
+
+    Be ignored by the chart execution
+
+    Display link-connection arrows in the Designer x
+
+    Prevent the chart from being able to start x
+
+    Cause a chart compilation error x
+
+    None of the above
+
+Correct
+Q3:
+All of a chart's instances share the same scope.
+A:
+
+    True
+    False x
+

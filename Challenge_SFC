@@ -1,0 +1,266 @@
+
+Q1:
+The enclosing step must choose an enclosed chart whose execution mode is _______.
+A:
+
+    Run Always
+
+    Disabled
+
+    Callable [X]
+
+    All of the above
+
+    None of the above [no]
+
+Review video
+Incorrect
+Q2:
+Charts must have exactly one End step:
+A:
+
+    True
+    False [X]
+
+Review video
+Incorrect
+Q3:
+To make your chart easier for others to understand, use a _______ element to explain complicated sections.
+A:
+
+    notes NO!
+    
+
+Review video
+Incorrect
+Q4:
+When a chart reaches an End Step, it enters the _______ state.
+A:
+
+    Pausing
+
+    Stopping [X]
+
+    Running
+
+    Aborting
+
+    Canceling NO!
+
+Review video
+Incorrect
+Q5:
+Charts are required to have a key parameter.
+A:
+
+    True
+    False [X]
+
+
+Correct
+Q6:
+A transition becomes true if its timeout expires.
+A:
+
+    True
+    False [X]
+
+
+Correct
+Q7:
+References to tags from within a transition expression must include the tag's _______.
+A:
+
+    provider [X]
+
+
+Correct
+Q8:
+If you need to draw a link that would have to cross over other links, you should use a _______ and _______.
+A:
+
+    Jump and Anchor [X]
+
+
+    Step and Transition
+
+    Branch and Sync
+
+    Block and Tackle
+
+    None of the above
+
+Correct
+
+Q9:
+The enclosing step's "Block" execution mode makes the step:
+A:
+
+    Run in a more effecient manner by transfering data in block mode
+
+    Block changes coming from the Designer in the enclosed chart
+
+    Prevent errors from the enclosed chart from aborting the enclosing chart NO!
+
+    Unable to be stopped until the enclosed chart finishes [x]
+
+    None of the above
+
+Review video
+Incorrect
+
+Q10:
+If you need two action steps to run simultaneously, use a _______ section.
+A:
+
+    parallel YEs!
+    
+
+Correct
+
+
+Charts are required to have a key parameter.
+A:
+
+    True
+    False «[X]
+
+If the "On Start" action takes a long time to execute, it will prevent timer actions from running.
+A:
+
+    True  [X]
+    False
+
+Charts must have exactly one End step:
+A:
+
+    True
+    False [x]
+
+A transition's expression may access variables in step scope.
+A:
+
+    True
+    False [x]
+
+If multiple timer actions are running at the same rate, they will execute simultaneously.
+A:
+
+    True [x]
+    False
+
+If an action step needs to store a variable that will be used in a later step, it makes most sense to store it:
+A:
+
+    In a tag no
+
+    In the file
+
+    In step scope no
+
+    In the database no
+
+    In chart scope
+    
+    
+    
+A transition with an expression of "true" never makes sense because it could simply be omitted.
+A:
+
+    True
+    False [x]
+
+ What happens if an End step is encountered in a parallel block?
+A:
+
+    The chart is aborted NO
+
+    The parallel block is canceled
+
+    The parallel block waits for other branches to finish, as normal
+
+    The chart is stopped No
+
+    None of the above 
+    
+    
+    
+Parameters may be passed into a chart in order to: (Select all that apply)
+A:
+
+    Distinguish the chart instance from other instances of the same chart x
+
+    Enable visual monitoring
+
+    Change the mode of the chart
+
+    Make the chart execute on the client
+
+    Make the chart instance use indirect addressing     x
+    
+    
+    
+The chart that an enclosing step executes must have an End Step.
+A:
+
+    True
+    False x
+
+    
+You can design a parallel section to allow flow to move below it even if all of its parallel branches have not finished.
+A:
+
+    True [x]
+    False 
+
+  If an action step needs to store a variable that will be used in a later step, it makes most sense to store it:
+A:
+
+    In the file
+
+    In chart scope
+
+    In a tagd
+
+    In step scope no
+
+    In the database  
+    
+f the transition beneath an action step is true when the step starts, which of the following actions will run? Select all that apply.
+A:
+
+    On Start No
+
+    On Stop
+
+    Timer
+
+    All of the above
+
+    None of the above
+    
+    
+A transition's expression must use the {chart.*} prefix to access variables in chart scope.
+A:
+
+    True
+    False [X]
+If the "On Start" action takes a long time to execute, it will prevent timer actions from running.
+A:
+
+    True [x]
+    False
+
+A timer action will always execute at least once.
+A:
+
+    True
+    False x
+
+If you have multiple jumps with the same label, the chart will have a compilation error.
+A:
+
+    True
+    False x
+
+

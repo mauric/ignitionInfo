@@ -1,0 +1,94 @@
+
+Q1:
+When a chart branches into multiple paths, they:
+A:
+
+    Must lead to steps
+
+    Must lead to transitions [X]
+
+    Are all followed simultaneously
+
+    Start parallel execution
+
+    None of the above
+
+Correct
+Q2:
+A chart with compilation errors can still run.
+A:
+
+    True
+    False [X]
+
+Correct
+Q3:
+A chart configured with Persist State = true will continue running even when the Gateway is turned off.
+A:
+
+    True
+    False [X]
+
+Correct
+Q4:
+Each project has its own set of SFCs.
+A:
+
+    True
+    False [X]
+
+Correct
+Q5:
+Where can an Ignition sequential function chart execute? Select all that apply.
+A:
+
+    Designer
+
+    Database
+
+    PLC
+
+    Gateway [X]
+
+    Client
+
+Correct
+Q6:
+The chart's "On _______" event script can be used to react to an unexpected error during chart execution.
+A:
+
+    Cancel
+
+    Catch
+
+    Error
+
+    Abort [X]
+
+    None of the above
+
+Correct
+Q7:
+If a chart configured as Run Always reaches an End step, it will be restarted by the Ignition Gateway.
+A:
+
+    True
+    False [X]
+
+Correct
+Q8:
+The _______ element is the only type of element that does not need to be connected to the chart.
+A:
+
+    Jump
+
+    End Step
+
+    Note [X]
+
+    Start Step
+
+    None of the above [NO]
+
+Review video
+Incorrect

@@ -1,0 +1,104 @@
+Perspective messages are matched with message handlers by Message Type (name).
+A:
+
+    True x
+    False
+
+Correct
+Q2:
+There is only one component traversal path that will reference a given component.
+A:
+
+    True
+    False x
+
+Correct
+Q3:
+The previousValue and currentValue parameters in a Property Change script are qualified values, consisting of a value, quality, and timestamp.
+A:
+
+    True x
+    False
+
+Correct
+Q4:
+Which of the following must be true in order for a message handler to be triggered? Select all that apply.
+A:
+
+    The message must specifically list the handler as a target. 
+
+    The message must have the correct type/name. x
+
+    The message must have been sent from the same component as the handler. 
+
+    The message must have been sent from a component in the correct listen scope. X
+
+    The message must have specific keys in its payload.
+
+Review video
+Incorrect
+Q5:
+A message can trigger multiple message handlers.
+A:
+
+    True x
+    False
+
+Property Change scripts can be configured only on certain properties.
+A:
+
+    True
+    False x
+
+Correct
+Q2:
+The previousValue and currentValue parameters in a Property Change script are qualified values, consisting of a value, quality, and timestamp.
+A:
+
+    True
+    False x
+
+Correct
+Q3:
+A message can trigger multiple message handlers.
+A:
+
+    True x
+    False
+
+Correct
+Q4:
+There is only one component traversal path that will reference a given component.
+A:
+
+    True
+    False x
+
+Review video
+Incorrect
+Q5:
+Perspective messages are matched with message handlers by Message Type (name).
+A:
+
+    True x
+    False
+
+The previousValue and currentValue parameters in a Property Change script are qualified values, consisting of a value, quality, and timestamp.
+A:
+
+    True x
+    False
+
+Correct
+There is only one component traversal path that will reference a given component.
+A:
+
+    True
+    False x
+Property Change scripts can be configured only on certain properties.
+A:
+
+    True
+    False x
+
+

@@ -1,0 +1,128 @@
+
+Q1:
+Using remote alarms, you can install the Alarm Notification module on one gateway, but do not need to install it on remote gateways.
+A:
+
+    True [X]
+    False
+
+Review video
+Incorrect
+Q2:
+Remote Alarms allow you to use the Alarm Notification Pipelines of other gateways.
+A:
+
+    True [X]
+    False
+
+Correct
+Q3:
+What is the default SSL port for Gateway Network Connections?
+A:
+
+    8060
+
+    0404
+
+    8888
+
+    12334
+
+    8043
+
+Review video
+Incorrect
+Q4:
+More than 3 Gateways can't be connected in the Gateway Network.
+A:
+
+    True
+    False
+
+Correct
+Q5:
+Tags in a Remote Tag Provider are stored and executed on the remote Gateway.
+A:
+
+    True
+    False
+
+Review video
+Incorrect
+Q6:
+New tags can't be added to the Remote Tag Provider.
+A:
+
+    True
+    False x
+
+Gateway Network connections requires SSL.
+A:
+
+    True
+    False x
+
+Using remote alarms, you can install the Alarm Notification module on one gateway, but do not need to install it on remote gateways.
+A:
+
+    True
+    False  x
+
+Tags in a Remote Tag Provider are stored and executed on the remote Gateway.
+A:
+
+    True x
+    False
+
+A Remote Tag Provider does not require any Gateway Network Connections.
+A:
+
+    True
+    False x
+
+
+Q6:
+Which major systems use the gateway network? Select all that apply.
+A:
+
+    Remote Alarms x
+
+    Remote Database
+
+    Remote Agents
+
+    Enterprise Administration x
+
+    Remote Tag Providers x
+    
+Remote Alarms allow you to use the Alarm Notification Pipelines of other gateways.
+A:
+
+    True
+    False x
+ncoming Gateway Network Connections must be approved by default.
+A:
+
+    True
+    False x
+
+
+Setting up a Remote History Provider requires the Gateway to have a direct database connection.
+A:
+
+    True
+    False x
+
+More than 3 Gateways can't be connected in the Gateway Network.
+A:
+
+    True
+    False x
+    
+Remote Alarms allow you to use the alarm notification profiles of another gateway.
+A:
+
+    True x
+    False 
+
+

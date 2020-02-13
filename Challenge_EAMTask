@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------------
+ENTERPRISE ADMINISTRACION MODULE / EAM TASK / 
+-------------------------------------------------------------------------------
+
+Which of the following are valid licensing Agent Tasks in the EAM? Select all that apply.
+A:
+
+    License Management
+
+    Distribute License
+
+    Update License
+
+    Activate License
+
+    Unactivate License
+
+Correct
+Q2:
+Which of the following CRONTAB scheduling formats means Twice Per Day?
+A:
+
+    (0,12 * * * *)
+
+    (* 0,12 * * *)
+
+    (2,0 * * * *)
+
+    (0 0,12 * * *)
+
+    (0 2 * * *)
+
+Correct
+Q3:
+CRONTAB uses a specific order for it's 5 values. Order the following units correctly.
+A:
+
+    Minutes
+
+    Hours
+
+    Days
+
+    Months
+
+    Weekdays
+
+Correct
+Q4:
+When a Controller sends a license to an Agent, which of the following are you allowed to do? Select all that apply.
+A:
+
+    Auto assign licenses
+
+    Manually enter a license
+
+    Assign licenses with wildcard characters
+
+    Select licenses from a dropdown list
+
+    All of the above
+
+Correct
+Q5:
+Which of the following are Task Scheduling options? Select all that apply. (Hint, the scheduling option needs to match the wording exactly)
+A:
+
+    Execute Later
+
+    Execute Once, Later
+
+    Execute Once, Scheduled
+
+    Execute, Scheduled
+
+    Execute On Demand
+
+Correct
+Q6:
+When sending a project to an Agent, all global settings will be automatically sent.
+A:
+
+    True
+    False
+
+Correct
